@@ -1,0 +1,8 @@
+to watch oe find the erroe
+
+in terminal either external terminal or vs code terminal
+
+be in the right directory
+
+tsc -w filename.ts
+it will display either it has error or not

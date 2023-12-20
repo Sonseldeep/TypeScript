@@ -1,0 +1,5 @@
+simply go to terminal
+run the ts code 
+and it will convert into js file
+ in typecript directory
+ type tsc filename.ts
